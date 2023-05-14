@@ -1,0 +1,15 @@
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/bin/Debug/net7.0/day5-LinkedList
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/bin/Debug/net7.0/day5-LinkedList.deps.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/bin/Debug/net7.0/day5-LinkedList.runtimeconfig.json
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/bin/Debug/net7.0/day5-LinkedList.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/bin/Debug/net7.0/day5-LinkedList.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.csproj.AssemblyReference.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.AssemblyInfoInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.AssemblyInfo.cs
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.csproj.CoreCompileInputs.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/refint/day5-LinkedList.dll
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.pdb
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/day5-LinkedList.genruntimeconfig.cache
+/home/arivusurya/Desktop/dotnet-developement/dotnet-remap-assinment/Day-6_Linked_List/day6-LinkedList/obj/Debug/net7.0/ref/day5-LinkedList.dll
